@@ -2,20 +2,24 @@
 by Bilqis Mufida (103022500019)
 
 ## Demo Application
-![GIF Demo App](https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/DEMO.gif)
+![GIF Demo App]()
+<img src="https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/DEMO.gif" alt="GIF Demo App" width="216" height="480"/>
 ### Screen Shot
 **Create**
-![Input Form Add](https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Home%20Page_Create%20New.png)
-![After Create](https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Home%20Page_After%20Create.png)
+<img src="https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Home%20Page_Create%20New.png" alt="Select Create Opt" width="200" height="100"/>
+<img src="https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Home%20Page_After%20Create.png" alt="After Create" width="216" height="480"/>
+
 **Edit**
-![Select Edit](https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Home%20Page_Select%20Edit.png)
-![After Edit](https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Home%20Page_After%20Edit.png)
+<img src="https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Home%20Page_Select%20Edit.png" alt="Select Edit" width="216" height="480"/>
+<img src="https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Home%20Page_After%20Edit.png" alt="After Edit" width="216" height="480"/>
+
 **Delete**
-![Select Delete](https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Home%20Page_Select%20Delete.png)
-![After Delete](https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Home%20Page_After%20Delete.png)
+<img src="https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Home%20Page_Select%20Delete.png" alt="Select Delete" width="216" height="480"/>
+<img src="https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Home%20Page_After%20Delete.png" alt="After Delete" width="216" height="480"/>
+
 **Dark Mode**
-![Select Dark Mode](https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Settings_Dark%20Mode.png)
-![Home Page DArk Mode](https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Home%20Page_Dark%20Mode.png)
+<img src="https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Settings_Dark%20Mode.png" alt="Settings Toggle Dark Mode On" width="216" height="480"/>
+<img src="https://github.com/bilqismufida/Note-App/blob/3334ccbc66630efc99c9d9b96c75030b0291fd1a/ScreenShot%20Simple%20Note%20App/Home%20Page_Dark%20Mode.png" alt="Home Page Dark Mode" width="216" height="480"/>
 
 ## How to Run
 **Create New Note**
